@@ -1,0 +1,7 @@
+<Module>
+<ModulePrefs title="Gadget for Google IO™" author="m.kupriyanov" author_email="m.kupriyanov@gmail.com" width="100" height="100" description="googleiogadget" thumbnail="http://z.senjury.com/bob.png"/>
+<Content type="html"><![CDATA[
+  <script src="http://www.google.com/events/io/2011/static/js/iobadge.js" type="text/javascript"></script>
+]]></Content>
+<style/>
+</Module>
